@@ -1,10 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F0F8FF&text=Dayoungee&fontAlign=70&height=200)
 
 
-<p align="center">
-<img src = "[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayoungee&layout=compact)](https://github.com/dayoungee/github-readme-stats)">
 
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayoungee&layout=compact)](https://github.com/dayoungee/github-readme-stats)
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <!--
 **dayoungee/dayoungee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
