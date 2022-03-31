@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F0F8FF&text=Dayoungee&fontAlign=70&height=200)
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayoungee&layout=compact)]
-
+<div align=center>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayoungee&layout=compact)
+  
+</div>
 
 <!--
 **dayoungee/dayoungee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
