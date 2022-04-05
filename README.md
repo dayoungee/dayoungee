@@ -2,7 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Dayoungee&fontAlign=70&height=200)
  
- ## 웹 개발자를 희망하는 Devloper
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdayoungee%2Fdayoungee&count_bg=%230090FF&title_bg=%23909090&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayoungee&layout=compact)](https://github.com/dayoungee/github-readme-stats)
