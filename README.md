@@ -22,5 +22,5 @@
   ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
   
 ### :hearts: This is me :hearts:
-[:thumbsup:(https://dayoung-portfolio.netlify.app/)]
+<a href = "https://dayoung-portfolio.netlify.app/)">제가 궁금하신가용?</a>
 </div>
