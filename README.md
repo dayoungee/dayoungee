@@ -22,5 +22,5 @@
   ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
   
 ### :hearts: This is me :hearts:
-:thumbsup:(https://dayoung-portfolio.netlify.app/)
+[:thumbsup:(https://dayoung-portfolio.netlify.app/)]
 </div>
