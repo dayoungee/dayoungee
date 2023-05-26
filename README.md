@@ -25,4 +25,5 @@
   
 ### :hearts: This is me :hearts:
 <a href = "https://dayoung-portfolio.netlify.app/">제가 궁금하신가용?</a>
+ ![Blog](https://img.shields.io/badge/Blogger-%23172BF4.svg?style=for-the-badge&logo=blogger&logoColor=white)
 </div>
