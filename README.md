@@ -25,5 +25,5 @@
   
 ### :hearts: This is me :hearts:
 <a href = "https://dayoung-portfolio.netlify.app/">제가 궁금하신가용?</a>
- <a href = "https://memodayoungee.tistory.com/"> ![Blog](https://img.shields.io/badge/Blogger-%FF5722.svg?style=for-the-badge&logo=blogger&logoColor=white) </a>
+ <a href = "https://memodayoungee.tistory.com/"> ![Blog](https://img.shields.io/badge/Blog-%FF5722.svg?style=for-the-badge&logo=blogger&logoColor=white) </a>
 </div>
