@@ -27,5 +27,5 @@
  <div>클릭해보세요!</div>
  
 <a href = "https://dayoung-portfolio.netlify.app/"> ![Portfolio](https://img.shields.io/badge/Portfolio-E21A2C.svg?style=for-the-badge&logo=macys&logoColor=white) </a>
- <a href = "https://memodayoungee.tistory.com/"> ![Blog](https://img.shields.io/badge/Blog-FF5722.svg?style=for-the-badge&logo=blogger&logoColor=white) </a>
+ <a href = "https://memodayoungee.tistory.com/"> ![Blog](https://img.shields.io/badge/Blog-4FC08D.svg?style=for-the-badge&logo=blogger&logoColor=white) </a>
 </div>
