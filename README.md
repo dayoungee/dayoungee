@@ -22,7 +22,7 @@
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
   ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
- ![Docker](https://img.shields.io/badge/docker-%23172BF4.svg?style=for-the-badge&logo=docker&logoColor=white)
+ ![Docker](https://img.shields.io/badge/docker-%61DAFB.svg?style=for-the-badge&logo=docker&logoColor=white)
   
 ### :hearts: This is me :hearts:
  <div>클릭해보세요!</div>
